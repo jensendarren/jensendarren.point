@@ -1,11 +1,11 @@
 {
-    "version": 0.1,
-    "target": "jensendarren.point",
+  "target": "jensendarren.point",
+  "version": 0.1,
     "keyvalue": {
       "example0": {
         "contract_send": "Template.addExample(contents)",
         "storage[contents]": {
-          "blob": "Welcome to Jensendarren",
+          "blob": "Welcome to Jensendarren (now in mainnet!)",
           "type": "text/plain"
         }
       }
@@ -14,6 +14,6 @@
       "Template"
     ],
     "upgradable": true,
-    "pointSDKVersion": "0.0.16" ,
-    "pointNodeVersion": "0.2.3"
+    "pointSDKVersion": "0.0.29" ,
+    "pointNodeVersion": "0.3.22"
 }
