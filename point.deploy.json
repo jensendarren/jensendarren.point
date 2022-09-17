@@ -5,7 +5,7 @@
       "example0": {
         "contract_send": "Template.addExample(contents)",
         "storage[contents]": {
-          "blob": "Welcome to Jensendarren (now in mainnet!)",
+          "blob": "Welcome to Jensendarren (now in mainnet! 3)",
           "type": "text/plain"
         }
       }
