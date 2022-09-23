@@ -62,7 +62,8 @@ export default function Home() {
   return (
     <>
       <Container className="p-3">
-        <h1 className="header">Welcome to the Jensendarren Demo App (v0.4.5 - 3)!</h1>
+        <h1 className="header">Welcome to the JensenDarren Demo App (v0.4.12)!</h1>
+        <h2>Today we are testing case sensitivity.</h2>
         <Wallet walletAddress={walletAddress} />
         <p>Current version of Point SDK: {currentVersionSDK}. Required version of Point SDK: {requiredPointSDKVersion}.</p>
         <p>Current version of Point Node: {currentPointNodeVersion}. Required version of Point Node: {requiredPointNodeVersion}.</p>
