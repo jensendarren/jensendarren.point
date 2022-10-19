@@ -1,6 +1,6 @@
 {
   "version": 0.1,
-  "target": "hello.point",
+  "target": "jensendarren.point",
   "keyvalue": {},
   "contracts": [
     "Hello"
