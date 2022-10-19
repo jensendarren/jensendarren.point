@@ -1,19 +1,8 @@
 {
-  "target": "jensendarren.point",
   "version": 0.1,
-    "keyvalue": {
-      "example0": {
-        "contract_send": "Template.addExample(contents)",
-        "storage[contents]": {
-          "blob": "Welcome to Jensendarren (now in mainnet! 3)",
-          "type": "text/plain"
-        }
-      }
-    },
-    "contracts": [
-      "Template"
-    ],
-    "upgradable": true,
-    "pointSDKVersion": "0.0.29" ,
-    "pointNodeVersion": "0.3.22"
+  "target": "hello.point",
+  "keyvalue": {},
+  "contracts": [
+    "Hello"
+  ]
 }
